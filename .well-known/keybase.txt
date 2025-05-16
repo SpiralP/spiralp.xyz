@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/spiralp
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://spiralp.xyz
+  * I am spiralp (https://keybase.io/spiralp) on keybase.
+  * I have a public key ASAFnuVcMuwGBsFi4ZPKiP9DKWA3eGNVzLSm6PcAJG8aNAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120059ee55c32ec0606c162e193ca88ff43296037786355ccb4a6e8f700246f1a340a",
+      "host": "keybase.io",
+      "kid": "0120059ee55c32ec0606c162e193ca88ff43296037786355ccb4a6e8f700246f1a340a",
+      "uid": "9ffd9870de62026c9919c9201299d019",
+      "username": "spiralp"
+    },
+    "merkle_root": {
+      "ctime": 1747387281,
+      "hash": "5fc8ba4ef4829a780389d500b6f7d63b6eac40985944395bf166f224169b673d6cff1438e89a8b657da482bd7e4e247db2e047ec1a4f04d6c971acf7ed4a2c24",
+      "hash_meta": "652981f8b37cc7f84ca455cbed330f9a7e98699072123bb0c4a2e32b59297f13",
+      "seqno": 26798620
+    },
+    "service": {
+      "entropy": "TtTXZa0I4/HBKqbbrvMUhcO+",
+      "hostname": "spiralp.xyz",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "6.5.1"
+  },
+  "ctime": 1747387305,
+  "expire_in": 504576000,
+  "prev": "a0aaddcf54fe900d83442837928af56fe3a1ffa96610190e1941239a3ceb9b60",
+  "seqno": 5,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgBZ7lXDLsBgbBYuGTyoj/QylgN3hjVcy0puj3ACRvGjQKp3BheWxvYWTESpcCBcQgoKrdz1T+kA2DRCg3kor1b+Oh/6lmEBkOGUEjmjzrm2DEIP3qQ2QXyB+tirdFnbeh2mzIFaXYF29LbWR+88Wge6xUAgHCo3NpZ8RA0zqIxyPqIpJvN8oPbt4oZJtJ31x/fk22XnaOQ7o2l1rA+MRfKPHtTN+X6Vy2K4BbCNNOh8hl91PmZ+N8lDX1AahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIG0sT80P30q2EmUvvc0l4QWi+Yc6qLFuVyWWAyJ+S8TEo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/spiralp
+
+==================================================================
